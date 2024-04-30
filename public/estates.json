@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "segment_name": "Agricultural Land",
+        "estate_title": "Vast Farmland",
+        "description": "Discover the boundless potential of this expansive agricultural land nestled in the heart of Mymensingh. Encompassing an impressive 20 acres of fertile soil, this property offers fertile ground for cultivating a diverse range of crops. With its strategic location and abundant natural resources, including ample water access, it stands as a prime opportunity for agricultural endeavors of all scales. Whether you envision fields of golden wheat swaying in the breeze, orchards heavy with the promise of fruit, or verdant pastures dotted with grazing livestock, this land provides the canvas upon which to paint your agricultural dreams. As the sun rises over the horizon, casting its golden rays upon the earth, it illuminates endless possibilities for those who dare to dream. Here, amidst the fertile soil and gentle whispers of the wind, farmers and entrepreneurs alike find solace and opportunity. This farmland is more than just a parcel of land; it's a gateway to a world of abundance and prosperity. With its strategic location in the heart of Mymensingh, it offers convenient access to markets, transportation routes, and essential amenities. Whether you're a seasoned farmer looking to expand your operations or a visionary entrepreneur seeking to cultivate new ventures, this land holds the key to your success. Imagine fields of emerald-green crops swaying in the gentle breeze, their vibrant hues painting a vivid tapestry against the backdrop of the clear blue sky. Picture orchards bursting with the luscious fruits of your labor, their sweet aromas wafting through the air and tantalizing the senses. Envision livestock grazing contentedly in verdant pastures, their soft murmurs echoing across the land as they nourish both body and soul. But beyond its agricultural potential, this farmland is a testament to the enduring spirit of human endeavor. It's a place where dreams take root and flourish, where hard work and dedication yield bountiful rewards. Whether you're planting the seeds of tomorrow's harvest or building a legacy for future generations, this land offers a sanctuary of opportunity and abundance.",
+        "price": "2,00,000 BDT",
+        "status": "Rent",
+        "area": "20 acres",
+        "location": "Mymensingh",
+        "facilities": [
+            "Fertile soil",
+            "Abundant natural resources",
+            "Strategic location"
+        ],
+        "image": "https://i.ibb.co/kmXBgVn/json-1.jpg",
+        "view_property_button": "View Property"
+    },
+    {
+        "id": 2,
+        "segment_name": "Ranches",
+        "estate_title": "Tranquil Ranch Retreat",
+        "description": "Step into a realm of tranquility with this stunning ranch retreat nestled amidst the scenic beauty of Cox's Bazar. Spread across 100 acres of pristine landscape, this property offers a haven for nature enthusiasts and eco-tourism enthusiasts alike. With its charming cottages, nature trails, and panoramic views, it promises an unforgettable retreat experience. Immerse yourself in the serene beauty of Cox's Bazar with this sprawling ranch retreat spanning an expansive 100 acres of pristine wilderness. Here, amidst the gentle rolling hills and whispering forests, tranquility reigns supreme. Picture-perfect cottages dot the landscape, each offering a sanctuary of rustic charm and modern comfort. Nature trails wind their way through the lush greenery, inviting exploration and discovery at every turn. Whether you're an avid hiker, a birdwatcher, or simply seeking a quiet place to reflect and unwind, this ranch retreat has something for everyone. As you wander through the verdant meadows and shady groves, you'll encounter an abundance of wildlife, from deer and rabbits to colorful songbirds and elusive foxes. And when the day draws to a close, retreat to the comfort of your cottage, where a crackling fire and a cozy bed await. Whether you're seeking adventure or simply a chance to reconnect with nature, this ranch retreat offers the perfect escape from the hustle and bustle of everyday life.",
+        "price": "5,00,000 BDT",
+        "status": "Sale",
+        "area": "100 acres",
+        "location": "Cox's Bazar",
+        "facilities": [
+            "Charming cottages",
+            "Nature trails",
+            "Panoramic views"
+        ],
+        "image": "https://i.ibb.co/1ZGrTSj/json-2.jpg",
+        "view_property_button": "View Property"
+    },
+    {
+        "id": 3,
+        "segment_name": "Farms",
+        "estate_title": "Organic Farming Paradise",
+        "description": "Embrace the essence of sustainable living with this sprawling organic farming paradise located in Tangail. Sprawling over 30 acres of lush greenery and fertile soil, this property beckons to those who seek harmony with nature and a commitment to eco-conscious practices. Here, amidst the gentle rustle of leaves and the chorus of songbirds, lies a sanctuary where the earth is revered and every living creature is honored. The farm itself is a testament to the principles of organic cultivation, with fields bursting with a vibrant array of fruits, vegetables, and herbs grown without the use of harmful chemicals or synthetic pesticides. From juicy tomatoes ripening in the sun to fragrant herbs perfuming the air with their heady scents, every harvest is a celebration of nature's bounty and the timeless wisdom of sustainable agriculture. Beyond its agricultural bounty, this farm is also a retreat for the soul, with tranquil gardens, shaded groves, and meandering pathways inviting visitors to wander and explore. Whether you're savoring the flavors of freshly picked produce, meditating by a babbling brook, or simply enjoying the peace and quiet of the countryside, this organic farming paradise offers a welcome respite from the hustle and bustle of modern life.",
+        "price": "3,50,000 BDT",
+        "status": "Rent",
+        "area": "30 acres",
+        "location": "Tangail",
+        "facilities": [
+            "Organic cultivation practices",
+            "Eco-friendly infrastructure",
+            "Serene surroundings"
+        ],
+        "image": "https://i.ibb.co/z7s5D6S/json-3.jpg",
+        "view_property_button": "View Property"
+    },
+    {
+        "id": 4,
+        "segment_name": "Vineyards",
+        "estate_title": "Breathtaking Vineyard Estate",
+        "description": "Indulge in the beauty of viticulture with this breathtaking vineyard estate located in Rangpur. Spanning 50 acres of rolling hills and fertile soil, this property offers an exceptional opportunity for wine enthusiasts and agricultural entrepreneurs. With its meticulously maintained vineyards, state-of-the-art facilities, and picturesque vistas, it epitomizes luxury living amidst nature. Whether you're a connoisseur seeking to craft the perfect vintage or a visionary entrepreneur looking to invest in the burgeoning wine industry, this vineyard estate offers a rare combination of beauty, luxury, and opportunity. As you stroll through the vineyards, the warm sun on your face and the gentle breeze in your hair, you'll be transported to another world—a world where time slows down, and every moment is savored. The vineyard itself is a masterpiece of design and craftsmanship, with rows of grapevines stretching as far as the eye can see, their lush foliage shimmering in the sunlight. From the first delicate bud of spring to the last crimson leaf of autumn, each season brings its own magic to the vineyard, transforming the landscape into a symphony of color and fragrance. And when harvest time arrives, the air is filled with the heady aroma of ripe grapes, and the vineyard comes alive with the hustle and bustle of activity as workers gather to pick, press, and ferment the fruit. But the true beauty of this vineyard estate lies not just in its physical surroundings but in the sense of community and camaraderie that it fosters. Whether you're sharing a glass of wine with friends in the tasting room, hosting a lavish dinner party in the grand banquet hall, or simply enjoying a quiet moment of reflection in the peaceful surroundings, this vineyard estate offers a lifestyle that is as enriching as it is luxurious.",
+        "price": "4,50,000 BDT",
+        "status": "Sale",
+        "area": "50 acres",
+        "location": "Rangpur",
+        "facilities": [
+            "Meticulously maintained vineyards",
+            "State-of-the-art facilities",
+            "Picturesque vistas"
+        ],
+        "image": "https://i.ibb.co/BnWzWww/json-4.webp",
+        "view_property_button": "View Property"
+    },
+    {
+        "id": 5,
+        "segment_name": "Forests",
+        "estate_title": "Enchanting Forest Retreat",
+        "description": "Escape to the enchanting beauty of the Sundarbans with this captivating forest retreat sanctuary. Spread across 200 acres of pristine wilderness, this property offers a rare opportunity to own a piece of one of the world's largest mangrove forests. With its diverse ecosystem, abundant wildlife, and serene ambiance, it's a haven for nature lovers and conservationists alike. Whether you're exploring the labyrinthine waterways, observing the majestic Royal Bengal tigers in their natural habitat, or simply soaking in the tranquility of your surroundings, every moment spent here is an unforgettable adventure. The forest itself is a wonderland of biodiversity, with towering mangrove trees, winding rivers, and hidden lagoons just waiting to be explored. As you navigate the maze-like waterways in search of adventure, you'll encounter a kaleidoscope of wildlife, from playful dolphins and graceful deer to elusive otters and colorful birds. And when night falls, the forest comes alive with the symphony of nocturnal sounds, from the haunting calls of owls to the rhythmic chirping of crickets. But perhaps the greatest magic of all lies in the sense of peace and tranquility that permeates the forest, enveloping you like a warm embrace and inviting you to slow down, breathe deeply, and reconnect with the natural world. Whether you're a seasoned explorer or a first-time visitor, this forest retreat offers an unparalleled opportunity to experience the beauty and wonder of the Sundarbans in all its glory.",
+        "price": "7,00,000 BDT",
+        "status": "Sale",
+        "area": "200 acres",
+        "location": "Sundarbans",
+        "facilities": [
+            "Diverse ecosystem",
+            "Abundant wildlife",
+            "Serene ambiance"
+        ],
+        "image": "https://i.ibb.co/pfhCk17/json-5.jpg",
+        "view_property_button": "View Property"
+    },
+    {
+        "id": 6,
+        "segment_name": "Plantations",
+        "estate_title": "Exotic Plantation Estate",
+        "description": "Discover the allure of exotic plantations with this stunning estate nestled in the scenic landscapes of Chittagong. Encompassing 80 acres of lush greenery and tropical flora, this property offers a rare opportunity to indulge in plantation farming or create a private botanical haven. With its diverse plant species, pristine environment, and panoramic views, it's a paradise waiting to be explored. Whether you're cultivating rare orchids, harvesting exotic spices, or simply enjoying the tranquility of your surroundings, every moment spent here is a testament to the beauty of nature and the joys of tropical living. The plantation itself is a veritable paradise, with row upon row of exotic plants and trees stretching as far as the eye can see. From towering palms to delicate ferns, every corner of the estate is alive with color and fragrance, offering a feast for the senses at every turn. As you wander through the lush gardens and manicured lawns, you'll encounter a world of beauty and wonder, where each plant tells its own unique story and every flower blooms with its own special magic. And when you're ready to relax, retreat to the comfort of your private villa, where sweeping views of the surrounding landscape and luxurious amenities await. Whether you're lounging by the pool with a refreshing cocktail, dining al fresco under the stars, or simply enjoying a quiet moment of reflection on your veranda, this plantation estate offers a lifestyle that is as luxurious as it is tranquil.",
+        "price": "6,00,000 BDT",
+        "status": "Sale",
+        "area": "80 acres",
+        "location": "Chittagong",
+        "facilities": [
+            "Diverse plant species",
+            "Pristine environment",
+            "Panoramic views"
+        ],
+        "image": "https://i.ibb.co/jDY8Fzs/json-6.jpg",
+        "view_property_button": "View Property"
+    }
+]
